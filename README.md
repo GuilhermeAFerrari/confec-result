@@ -13,9 +13,9 @@
 
 ### 🚧  Confec Resultado 🚀 Em construção...  🚧
 
-<p float="center">
-  <img src="./assets/image/BannerConfecResultadoPrincipal.jpg" width="100" />
-  <img src="./assets/image/PrototipoConfecResultado.jpg" width="100" />
+<p float="left">
+  <img src="./assets/image/BannerConfecResultadoPrincipal.jpg" />
+  <img src="./assets/image/PrototipoConfecResultado.jpg" />
 </p>
 
 > 📋 Após os cadastros de operadores e máquinas, o arduíno realiza a contagem de peças produzidas possibilitando a gereção de relatórios analíticos e dashboards.
