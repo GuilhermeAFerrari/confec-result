@@ -5,7 +5,7 @@ class Banco
     private static $dbNome = 'DB_SysResultado';
     private static $dbHost = 'localhost';
     private static $dbUsuario = 'root';
-    private static $dbSenha = '';
+    private static $dbSenha = '1234';
     
     private static $cont = null;
     

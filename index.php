@@ -1,6 +1,6 @@
 <?php
 
-    include_once('../controller/conexao.php');
+    include_once('./controller/conexao.php');
 
 echo '
 
@@ -47,7 +47,7 @@ echo '
                         <div class="card-body">
                             <h5 class="card-title">Máquina 1</h5>
                             <p class="card-text">Maquina Singer - Travete - ...</p>
-                            <p class="card-text"><b>Operador(a) Pablo Mello</b></p>
+                            <p class="card-text"><b>Operador(a) Bill</b></p>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item"><b>Número de Peças:</b></li>';
                                 echo $data['id'];
@@ -63,7 +63,7 @@ echo '
                         <div class="card-body">
                             <h5 class="card-title">Máquina 2</h5>
                             <p class="card-text">Maquina Singer - Travete - ...</p>
-                            <p class="card-text"><b>Operador(a) Guilherme Ferrari</b></p>
+                            <p class="card-text"><b>Operador(a) Steve</b></p>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item"><b>Número de Peças:</b></li>
                             </ul>
@@ -77,7 +77,7 @@ echo '
                         <div class="card-body">
                             <h5 class="card-title">Máquina 3</h5>
                             <p class="card-text">Maquina Singer - Travete - ...</p>
-                            <p class="card-text"><b>Operador(a) Fulano de Tal</b></p>
+                            <p class="card-text"><b>Operador(a) Maria</b></p>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item"><b>Número de Peças:</b></li>
                             </ul>
@@ -91,7 +91,7 @@ echo '
                     <div class="card-body">
                         <h5 class="card-title">Máquina 3</h5>
                         <p class="card-text">Maquina Singer - Travete - ...</p>
-                        <p class="card-text"><b>Operador(a) Fulano de Tal</b></p>
+                        <p class="card-text"><b>Operador(a) John</b></p>
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item"><b>Número de Peças:</b></li>
                         </ul>
@@ -105,7 +105,7 @@ echo '
                 <div class="card-body">
                     <h5 class="card-title">Máquina 3</h5>
                     <p class="card-text">Maquina Singer - Travete - ...</p>
-                    <p class="card-text"><b>Operador(a) Fulano de Tal</b></p>
+                    <p class="card-text"><b>Operador(a) Saddy</b></p>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item"><b>Número de Peças:</b></li>
                     </ul>
@@ -119,7 +119,7 @@ echo '
             <div class="card-body">
                 <h5 class="card-title">Máquina 3</h5>
                 <p class="card-text">Maquina Singer - Travete - ...</p>
-                <p class="card-text"><b>Operador(a) Fulano de Tal</b></p>
+                <p class="card-text"><b>Operador(a) Kroft</b></p>
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item"><b>Número de Peças:</b></li>
                 </ul>
@@ -128,34 +128,6 @@ echo '
             </div>
         </div>
     </div>
-    <div class="col-sm-4">
-    <div class="card">
-        <div class="card-body">
-            <h5 class="card-title">Máquina 3</h5>
-            <p class="card-text">Maquina Singer - Travete - ...</p>
-            <p class="card-text"><b>Operador(a) Fulano de Tal</b></p>
-            <ul class="list-group list-group-flush">
-                <li class="list-group-item"><b>Número de Peças:</b></li>
-            </ul>
-            <br />
-            <a href="#" class="btn btn-primary">Ver dados estatísticos</a>
-        </div>
-    </div>
-</div>
-<div class="col-sm-4">
-<div class="card">
-    <div class="card-body">
-        <h5 class="card-title">Máquina 3</h5>
-        <p class="card-text">Maquina Singer - Travete - ...</p>
-        <p class="card-text"><b>Operador(a) Fulano de Tal</b></p>
-        <ul class="list-group list-group-flush">
-            <li class="list-group-item"><b>Número de Peças:</b></li>
-        </ul>
-        <br />
-        <a href="#" class="btn btn-primary">Ver dados estatísticos</a>
-    </div>
-</div>
-</div>
             </div>
         </div>
     </body>
