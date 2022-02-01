@@ -23,10 +23,10 @@
 ### ⚙️ Requisitos
 
 Antes de começar, você vai precisar ter instalado as seguintes ferramentas:
-[Git](https://git-scm.com).
-[IDLE Shell](https://docs.python.org/3/library/idle.html).
-[Apache](https://www.apachefriends.org/pt_br/index.html).
-[MariaDB](https://mariadb.org/).
+- [Git](https://git-scm.com).
+- [IDLE Shell](https://docs.python.org/3/library/idle.html).
+- [Apache](https://www.apachefriends.org/pt_br/index.html).
+- [MariaDB](https://mariadb.org/).
 Opicionalmente você pode utilizar o software [Fritizing](https://fritzing.org/) para realizar a prototipação da configuração da placa arduino, também você pode usar o editor de código [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Executando o projeto
