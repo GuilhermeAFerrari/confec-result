@@ -13,8 +13,8 @@
 
 ### 🚧  Confec Resultado 🚀 Em construção...  🚧
 
-<p float="left">
-  <img src="./assets/image/BannerConfecResultadoPrincipal.jpg" width="300" />
+<p float="center">
+  <img src="./assets/image/BannerConfecResultadoPrincipal.jpg" width="400" />
   <img src="./assets/image/PrototipoConfecResultado.jpg" width="300" />
 </p>
 
