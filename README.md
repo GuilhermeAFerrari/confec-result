@@ -13,8 +13,7 @@
 
 ### 🚧  Confec Resultado 🚀 Em construção...  🚧
 
-![](./assets/image/BannerConfecResultado.jpg)
-![](./assets/image/PrototipoConfecResultado.jpg)
+![](./assets/image/BannerConfecResultado.jpg) ![](./assets/image/PrototipoConfecResultado.jpg)
 
 > 📋 Após os cadastros de operadores e máquinas, o arduíno realiza a contagem de peças produzidas possibilitando a gereção de relatórios analíticos e dashboards.
 
@@ -33,10 +32,11 @@ Opicionalmente você pode utilizar o software [Fritizing](https://fritzing.org/)
 # Clone este repositório
 $ git clone <https://github.com/GuilhermeAFerrari/confec-result.git>
 ```
-#### Altere os arquivos conexao.php (conefc-result/controller) e o arquivo script.py (confec-result/python) com as informações do seu banco de dados
-#### Execute o arquivo script.py (confec-result/python) com o terminal IDLE Shell
-#### Execute o arquivo index.php (confec-result) com o localhost do seu servidor apache
-
+```
+Altere os arquivos conexao.php (conefc-result/controller) e o arquivo script.py (confec-result/python) com as informações do seu banco de dados.
+Execute o arquivo script.py (confec-result/python) com o terminal IDLE Shell.
+Execute o arquivo index.php (confec-result) com o localhost do seu servidor apache.
+```
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
